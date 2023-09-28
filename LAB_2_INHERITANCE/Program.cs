@@ -18,7 +18,7 @@ namespace LAB_2_INHERITANCE
             
 
             // Read from "employees.txt" file
-            string[] lines = File.ReadAllLines("/LAB_2_INHERITANCE/LAB_2_INHERITANCE/employees.txt");
+            string[] lines = File.ReadAllLines("/workspaces/lab2inheritance/LAB_2_INHERITANCE/employees.txt");
 
             foreach (string line in lines)
             {
