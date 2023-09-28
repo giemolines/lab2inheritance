@@ -1,0 +1,16 @@
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.csproj.AssemblyReference.cache
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.AssemblyInfoInputs.cache
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.AssemblyInfo.cs
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.csproj.CoreCompileInputs.cache
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/bin/Debug/net7.0/LAB_2_INHERITANCE
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/bin/Debug/net7.0/Program.cs
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/bin/Debug/net7.0/LAB_2_INHERITANCE.deps.json
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/bin/Debug/net7.0/LAB_2_INHERITANCE.runtimeconfig.json
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/bin/Debug/net7.0/LAB_2_INHERITANCE.dll
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/bin/Debug/net7.0/LAB_2_INHERITANCE.pdb
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.dll
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/refint/LAB_2_INHERITANCE.dll
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.pdb
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/LAB_2_INHERITANCE.genruntimeconfig.cache
+/Users/gie/Desktop/oop 2/LAB 2/LAB_2_INHERITANCE/LAB_2_INHERITANCE/obj/Debug/net7.0/ref/LAB_2_INHERITANCE.dll
